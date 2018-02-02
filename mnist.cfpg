@@ -1,0 +1,5 @@
+<Projects version="2.0">
+	<Project active="1">mnist.cfp</Project>
+	<File active="1">main.cpp</File>
+	<File active="0">utils.h</File>
+</Projects>
